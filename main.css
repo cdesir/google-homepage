@@ -11,6 +11,11 @@
     margin: auto;
     width: 500px;
     height: 50px;
+    padding-bottom: 30px;
+}
+
+.button {
+    margin: auto;
 }
 
 input {
@@ -19,6 +24,9 @@ input {
 }
 
 p {
-    width: 50px;
+    display: inline-block;
+    width: 150px;
     height: 50px;
+    background-color: gainsboro;
+    text-align: center;
 }
