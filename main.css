@@ -45,3 +45,24 @@ p {
     font-size: 12px;
     font-weight: 700;
 }
+
+.right {
+    margin: 10px;
+    float: right;
+}
+
+.left {
+    margin: 10px;
+    float: left;
+}
+
+a {
+    margin: 10px;
+
+}
+
+.material-icons {
+    line-height: .8;
+    display: block;
+    float: right;
+}
